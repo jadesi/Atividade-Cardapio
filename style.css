@@ -1,0 +1,133 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+ 
+:target {
+  scroll-margin-top: .8em;
+}
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: #e1b4c292;
+}
+
+header {
+    background-color: #DC6F91;
+    padding: 20px 20px;
+    color: #330f1a;
+}
+
+.logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+header h2 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 20px;
+    font-weight: 800;
+}
+
+header nav{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: center;
+}
+
+header nav a {
+    text-decoration: none;
+    color: #5C2E3C;
+    font-size: 1.2rem;
+}
+
+header nav a:hover{
+    color: #22070f;
+}
+
+.section-title {
+    color: #5C2E3C;
+    padding: 30px 0px 10px 0px;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.flavors {
+    color:#5C2E3C;
+    display: flex;
+    gap: 35px;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px;
+}
+
+.choose-flavor {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 15px;
+    align-items: center;
+}
+
+.choose-flavor img {
+    border-radius: 50%;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.267);
+}
+
+.choose-flavor button {
+    border: none;
+    border-radius: 20px;
+    padding: 20px;
+    font-size: 1rem;
+    font-weight: 800;
+    background-color: darkolivegreen;
+    color: aliceblue;
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.12), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
+.contact {
+    background-color: #5C2E3C;
+    color: #e1b4c2;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;    
+}
+
+.address {
+    padding: 30px;
+    text-align: center;
+}
+
+.address h3 {
+    padding-bottom: 15px;
+}
+
+.social-media {
+    padding: 30px;
+    text-align: center;
+}
+
+.social-media h3 {
+    padding-bottom: 15px;
+}
+
+.social-media img{
+    width: 32px;
+    height: 32px;
+}
+
+footer {
+    padding: 15px;
+    text-align: center;
+}
