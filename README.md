@@ -24,4 +24,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Atividade desenvolvida utilizando somente HTML para fixas suas principais tags.
+Atividade desenvolvida utilizando somente HTML para fixar suas principais tags.
