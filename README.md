@@ -12,7 +12,7 @@ Atividade módulo de HTML do ElasNaTech 2023. <br/>
 <br>
 
 <p align="center">
-  <img alt="imagem do projeto" src="./assets/preview.png" width="100%">
+  <img alt="imagem do projeto" src="./assets/preview2.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
