@@ -20,8 +20,9 @@ Atividade módulo de HTML do ElasNaTech 2023. <br/>
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
+- CSS
 - Git e Github
 
 ## 💻 Projeto
 
-Atividade desenvolvida utilizando somente HTML para fixar suas principais tags.
+Atividade desenvolvida utilizando somente HTML e CSS para fixar suas principais tags.
